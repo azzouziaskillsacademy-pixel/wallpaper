@@ -1,0 +1,226 @@
+{
+  "Quizzes": [
+    {
+      "QuizQuestion": "Which player has won the most Ballon d'Or awards?",
+      "QuizAnswerIndex": 0,
+      "QuizOptions": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Michel Platini",
+        "Johan Cruyff"
+      ]
+    },
+    {
+      "QuizQuestion": "Which country has won the most FIFA World Cup titles?",
+      "QuizAnswerIndex": 3,
+      "QuizOptions": [
+        "Germany",
+        "Italy",
+        "Argentina",
+        "Brazil"
+      ]
+    },
+    {
+      "QuizQuestion": "Who is the all-time top scorer in men's international football?",
+      "QuizAnswerIndex": 1,
+      "QuizOptions": [
+        "Ali Daei",
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Sunil Chhetri"
+      ]
+    },
+    {
+      "QuizQuestion": "Which club has won the most English Premier League titles?",
+      "QuizAnswerIndex": 2,
+      "QuizOptions": [
+        "Liverpool",
+        "Arsenal",
+        "Manchester United",
+        "Chelsea"
+      ]
+    },
+    {
+      "QuizQuestion": "Which stadium hosts the FA Cup final?",
+      "QuizAnswerIndex": 0,
+      "QuizOptions": [
+        "Wembley Stadium",
+        "Old Trafford",
+        "Tottenham Hotspur Stadium",
+        "Emirates Stadium"
+      ]
+    },
+    {
+      "QuizQuestion": "Who scored the 'Hand of God' goal in the 1986 World Cup?",
+      "QuizAnswerIndex": 3,
+      "QuizOptions": [
+        "Gary Lineker",
+        "Diego Maradona",
+        "Pelé",
+        "Diego Maradona"
+      ]
+    },
+    {
+      "QuizQuestion": "Which club did Cristiano Ronaldo play for before joining Real Madrid in 2009?",
+      "QuizAnswerIndex": 1,
+      "QuizOptions": [
+        "Sporting CP",
+        "Manchester United",
+        "Juventus",
+        "Al-Nassr"
+      ]
+    },
+    {
+      "QuizQuestion": "Which African nation has won the most Africa Cup of Nations titles?",
+      "QuizAnswerIndex": 0,
+      "QuizOptions": [
+        "Egypt",
+        "Cameroon",
+        "Ghana",
+        "Nigeria"
+      ]
+    },
+    {
+      "QuizQuestion": "Who is the only goalkeeper to have won the Ballon d'Or?",
+      "QuizAnswerIndex": 2,
+      "QuizOptions": [
+        "Manuel Neuer",
+        "Gianluigi Buffon",
+        "Lev Yashin",
+        "Iker Casillas"
+      ]
+    },
+    {
+      "QuizQuestion": "Which club won the first ever FIFA Club World Cup in 2000?",
+      "QuizAnswerIndex": 1,
+      "QuizOptions": [
+        "Manchester United",
+        "Corinthians",
+        "Real Madrid",
+        "Barcelona"
+      ]
+    },
+    {
+      "QuizQuestion": "Which player has scored the most goals in a single Premier League season (42-game era)?",
+      "QuizAnswerIndex": 3,
+      "QuizOptions": [
+        "Alan Shearer",
+        "Andy Cole",
+        "Mohamed Salah",
+        "Andy Cole"
+      ]
+    },
+    {
+      "QuizQuestion": "Which country won the UEFA European Championship in 2004?",
+      "QuizAnswerIndex": 0,
+      "QuizOptions": [
+        "Greece",
+        "Portugal",
+        "France",
+        "Czech Republic"
+      ]
+    },
+    {
+      "QuizQuestion": "Which club has won the most UEFA Champions League titles in a row?",
+      "QuizAnswerIndex": 1,
+      "QuizOptions": [
+        "Ajax",
+        "Real Madrid",
+        "Bayern Munich",
+        "Barcelona"
+      ]
+    },
+    {
+      "QuizQuestion": "Who is the all-time top scorer for the English national team?",
+      "QuizAnswerIndex": 2,
+      "QuizOptions": [
+        "Wayne Rooney",
+        "Bobby Charlton",
+        "Harry Kane",
+        "Gary Lineker"
+      ]
+    },
+    {
+      "QuizQuestion": "Which club is known as 'The Red Devils'?",
+      "QuizAnswerIndex": 0,
+      "QuizOptions": [
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "QuizQuestion": "Who won the Golden Boot at the 2022 FIFA World Cup?",
+      "QuizAnswerIndex": 3,
+      "QuizOptions": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Julian Alvarez",
+        "Kylian Mbappé"
+      ]
+    },
+    {
+      "QuizQuestion": "Which Italian club has won the most Serie A titles?",
+      "QuizAnswerIndex": 1,
+      "QuizOptions": [
+        "AC Milan",
+        "Juventus",
+        "Inter Milan",
+        "Roma"
+      ]
+    },
+    {
+      "QuizQuestion": "Who is the youngest player to score in a FIFA World Cup final?",
+      "QuizAnswerIndex": 0,
+      "QuizOptions": [
+        "Pelé",
+        "Kylian Mbappé",
+        "Lionel Messi",
+        "Paolo Maldini"
+      ]
+    },
+    {
+      "QuizQuestion": "Which club did Erling Haaland play for before joining Manchester City?",
+      "QuizAnswerIndex": 2,
+      "QuizOptions": [
+        "Red Bull Salzburg",
+        "Molde",
+        "Borussia Dortmund",
+        "RB Leipzig"
+      ]
+    },
+    {
+      "QuizQuestion": "Which country won the first ever women's FIFA World Cup in 1991?",
+      "QuizAnswerIndex": 3,
+      "QuizOptions": [
+        "Germany",
+        "Norway",
+        "Sweden",
+        "United States"
+      ]
+    }
+  ],
+  "PlayerConfig": {
+    "ShowQuiz": true,
+    "ClickCount": 3,
+    "ShowEvents": false,
+    "ShowScores": false,
+    "ShowUpdate": false,
+    "UpdateLink": "",
+    "ShowChannels": false,
+    "PlayerPackage": "com.smartflix.proplayer",
+    "ShowCustomAds": false,
+    "UpdateVersion": 1,
+    "ShowAutoEvents": false,
+    "server_priority": {
+      "str": 2,
+      "manual": 1,
+      "timstreamer": 3
+    },
+    "ShowAutoChannels": false,
+    "ShowManualEvents": false,
+    "ShowManualChannels": false,
+    "PlayerChannelsAndEventsInPlayer": true
+  }
+}
